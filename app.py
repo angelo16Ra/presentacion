@@ -50,6 +50,8 @@ def portada():
                   <strong>Nombre:</strong> Tony Stark<br>
                   <strong>Alias:</strong> Iron Man<br>
                   <strong>Descripción:</strong> Iron Man es un superhéroe que aparece en los cómics estadounidenses publicados por Marvel Comics. El personaje fue creado por el escritor y editor Stan Lee en colaboración con el guionista Larry Lieber. Los artistas Don Heck y Jack Kirby fueron los encargados de su diseño.
+                  <strong>Nombre del estudiante:</strong> Angelo Rodriguez Altez<br>
+                  <strong>Correo:</strong> i2226467@continental.edu.pe<br>
               </p>
           </div>
        </body>
